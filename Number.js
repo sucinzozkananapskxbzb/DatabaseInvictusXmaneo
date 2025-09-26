@@ -1,0 +1,6 @@
+{
+  "NOMOR_BOT_LU": [
+    "6285217841868",
+    "PASANG_SINI_MEKI"
+  ]
+}
